@@ -2,6 +2,7 @@
 .git
 .github/
 
+
 # Ignore Husky configuration files
 .husky/
 
